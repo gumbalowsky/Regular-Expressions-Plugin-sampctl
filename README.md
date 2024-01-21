@@ -1,4 +1,4 @@
-Regular Expression Plugin
+Regular Expression Plugin - SAMPCTL compatible version
 ====================
 
 This is a basic plugin based on Oniguruma library that allows the use of regular expressions in samp scripting.
@@ -12,3 +12,6 @@ Credits:
 *	-maddinat0r (Got the SDK from his github)
 *	-Incognito (I learned a lot from his github)
 *	-K.Kosako (Author of Oniguruma library)
+
+
+This is a fork of old samp plugin with modification that enables sampctl to execute it's binaries in order to turn on server, for more comfortable development purposes.
