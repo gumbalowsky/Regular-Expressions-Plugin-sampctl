@@ -14,7 +14,8 @@
             "includes": ["windows/pawno/include"],
             "plugins": ["windows/plugins/libRegEx.dll"],
             "files": {
-                "onig.dll": "onig.dll"
+                "onig.dll": "onig.dll",
+                "pawno/include/libRegEx.inc": "pawno/include/libRegEx.inc"
             }
         },
         {
