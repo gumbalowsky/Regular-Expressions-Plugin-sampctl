@@ -8,7 +8,7 @@
     },
 	"resources": [
         {
-            "name": "regex-v0.2-win.rar",
+            "name": "regex-v0.2-win.zip",
             "platform": "windows",
             "archive": true,
             "includes": ["windows/pawno/include"],
