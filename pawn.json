@@ -1,0 +1,27 @@
+{
+	"user": "gumbalowsky",
+	"repo": "Regular-Expressions-Plugin-sampctl",
+	"include_path": "pawno/include",
+    "dependencies": ["sampctl/samp-stdlib"],
+    "runtime": {
+        "plugins": ["gumbalowsky/Regular-Expressions-Plugin-sampctl"]
+    },
+	"resources": [
+        {
+            "name": "regex-v0.2-win.rar",
+            "platform": "windows",
+            "archive": true,
+            "includes": ["windows/pawno/include"],
+            "plugins": ["windows/plugins/libRegEx.dll"],
+            "files": {
+                "onig.dll": "windows/onig.dll"
+            }
+        },
+        {
+            "name": "regex-v0.2-linux.tar.gz",
+            "platform": "linux",
+            "archive": true,
+            "plugins": ["linuxregexv0.2/linuxstatic/libRegEx_static.so"]
+        }
+    ]
+}
