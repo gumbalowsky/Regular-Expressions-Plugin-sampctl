@@ -14,7 +14,9 @@
             "includes": ["windows/pawno/include"],
             "plugins": ["windows/plugins/libRegEx.dll"],
             "files": {
-                "onig.dll": "windows/onig.dll"
+                "onig.dll": "onig.dll",
+                "msvcp100d.dll": "msvcp100d",
+                "msvcr100d.dll": "msvcp100d"
             }
         },
         {
