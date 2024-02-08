@@ -1,10 +1,10 @@
 {
-	"user": "gumbalowsky",
+	"user": "Mrucznik",
 	"repo": "Regular-Expressions-Plugin-sampctl",
 	"include_path": "pawno/include",
     "dependencies": ["sampctl/samp-stdlib"],
     "runtime": {
-        "plugins": ["gumbalowsky/Regular-Expressions-Plugin-sampctl"]
+        "plugins": ["Mrucznik/Regular-Expressions-Plugin-sampctl"]
     },
 	"resources": [
         {
