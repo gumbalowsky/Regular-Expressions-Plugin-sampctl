@@ -23,6 +23,7 @@
             "name": "regex-v0.2-linux.tar.gz",
             "platform": "linux",
             "archive": true,
+            "includes": ["linuxregexv0.2/pawno/include"],
             "plugins": ["linuxregexv0.2/linuxstatic/libRegEx_static.so"],
 			"files": {
 				"linuxregexv0.2/linux32/plugins/libRegEx.so": "plugins/libRegEx.so"
