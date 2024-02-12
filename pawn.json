@@ -25,7 +25,7 @@
             "archive": true,
             "plugins": ["linuxregexv0.2/linux32/plugins/libRegEx.so"],
 			"files": {
-				"linuxregexv0.2/linux32/plugins/libonig.so.2": "libonig.so.2"
+				"linuxregexv0.2/linux32/plugins/libonig.so.2": "/usr/lib/libonig.so.2"
 			}
         }
     ]
