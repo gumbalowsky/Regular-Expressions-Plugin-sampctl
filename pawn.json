@@ -23,7 +23,7 @@
             "name": "regex-v0.2-linux.tar.gz",
             "platform": "linux",
             "archive": true,
-            "plugins": ["linuxregexv0.2/linux32/plugins/libRegEx.so"]
+            "plugins": ["linuxregexv0.2/linux32/plugins/libRegEx.so"],
 			"files": {
 				"linuxregexv0.2/linux32/plugins/libonig.so.2": "libonig.so.2"
 			}
